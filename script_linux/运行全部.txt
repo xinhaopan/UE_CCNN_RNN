@@ -1,0 +1,3 @@
+python train0.py & python train1.py & python train2.py & python train3.py & python train4.py & python train5.py & python train6.py & python train7.py
+
+python train1_2010.py & python train3_1985.py & python train4_1990.py & python train5_1995.py & python train6_2000.py & python train7_2005.py 
